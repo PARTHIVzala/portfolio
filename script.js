@@ -1,7 +1,7 @@
 const roles = [
   "Designing Experiences",
   "Building Web Apps",
-  "Creative Developer"
+  "MERN Stack Web Developer"
 ];
 
 let roleIndex = 0;
