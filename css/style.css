@@ -165,7 +165,6 @@ color:#00e0ff;
   margin-bottom:30px;
 }
 
-/* BUTTONS */
 .buttons{
   display:flex;
   gap:18px;
@@ -313,7 +312,7 @@ border-radius: 20px;
   background: url("images/about-bg.jpg") no-repeat center/cover;
   background-attachment: fixed;
   overflow: hidden;
-  justify-content: center;   /* horizontally center */
+  justify-content: center;
   text-align: center; 
 }
 
